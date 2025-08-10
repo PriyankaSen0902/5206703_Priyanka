@@ -5,4 +5,4 @@
 [Git certificate](./Git/GIT%20certificate.pdf)
 
 #Sololearn Certificate - C Programming
-[Intoduction to C Certificate](./C_Programming/C%20Certificate.jpg)
+[Intoduction to C Certificate](./C/C%20Certificate.jpg)
